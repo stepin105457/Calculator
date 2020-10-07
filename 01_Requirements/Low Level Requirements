@@ -1,1 +1,5 @@
+Low Level Requirement
+1.	Get values – To perform any operation we need any two data values; the customer must enter two values.
+2.	Get operator – The customer must enter the name of the operator to be performed and obtain the result; incase if he/she wants to exit, it is also possible in this function.
+3.	Selecting the operators to be available for the customer.
 
